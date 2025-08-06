@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+sentence-transformers
+scikit-learn
+PyPDF2
+tqdm
+google-generativeai
