@@ -414,6 +414,7 @@ def main():
     else:
         st.info("❓ No questions generated yet. Click 'Generate Questions' to create your quiz!")
     print("nyoba 1")
+    print("nyoba 2")
 
 
 if __name__ == "__main__":
